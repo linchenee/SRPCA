@@ -1,3 +1,5 @@
+Slim transform-based tensor robust principal component analysis (SRPCA).
+
 Matlab and Pytorch code for "Slim is Better: Transform-Based Tensor Robust Principal Component Analysis", accepted by IEEE Transactions on Signal Processing.
 # Usage of Matlab code for SRPCA
 Run main_xxx.m
