@@ -1,6 +1,7 @@
 Matlab and Pytorch code for "Slim is Better: Transform-Based Tensor Robust Principal Component Analysis", accepted by IEEE Transactions on Signal Processing.
 # Usage of Matlab code for SRPCA
-Run main_xxx.m
+1. Download the .mat file from [GoogleDrive](https://drive.google.com/drive/folders/1l1yW27thSGzbMQFaCFP6OSV1vktghXs7?usp=drive_link) to the 'data' folder. 
+2. Run main_xxx.m
 # Usage of Pytorch code for SRPCA-Net
 1. Installation: pip install torch-dct; pip install scipy
 2. Run 'main_Table_II_train_image_denoising.py' or 'main_Table_II_train_video_denoising.py' to train SRPCA-Net
