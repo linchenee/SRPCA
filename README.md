@@ -1,4 +1,4 @@
-Matlab and Pytorch code for "Slim is Better: Transform-Based Tensor Robust Principal Component Analysis", accepted by IEEE Transactions on Signal Processing.
+Matlab and Pytorch code for "Slim is better: Transform-based tensor robust principal component analysis", IEEE Transactions on Signal Processing, vol. 73, pp. 2320-2335, 2025.
 # Usage of Matlab code for SRPCA
 1. Download the .mat file from [GoogleDrive](https://drive.google.com/drive/folders/1l1yW27thSGzbMQFaCFP6OSV1vktghXs7?usp=drive_link) to the 'data' folder. 
 2. Run the .m file.
